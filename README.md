@@ -6,7 +6,7 @@ Built on Android Jetpack compose - MVVM with Hilt for DI, Room for local disk ca
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Detail Description](#detaildescription)
+- [Detail Description](#detail-description)
 - [Installation](#installation)
 
 
@@ -31,7 +31,7 @@ This project is built on :
 - Later the App can load images from the cache if no internet is available.
 - When the internet is available it will update the caches
 
-## Detail descriptions 
+## Detail description
 
 1. Hilt for Dependency Injection (DI): Hilt, Google's recommended library for Android dependency injection, ensures a modular and maintainable codebase.
    With Hilt, managing dependencies becomes seamless and intuitive, allowing for easier testing and scaling of the app.
