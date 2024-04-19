@@ -1,12 +1,12 @@
 # Sajid_Ali_Android_Assignment
 
-Android assignment project for showing images in a grid with 3-column square images. 
+Android assignment project for showing images in a grid with 3-column square images without any image loading library like Glide, Coil, Picaso, etc. 
 Built on Android Jetpack compose - MVVM with Hilt for DI, Room for local disk cache, and LRU cache for memory cache
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [Detail Description](#detaildescription)
 - [Installation](#installation)
 
 
@@ -26,6 +26,10 @@ This project is built on :
 8. Room database for local disk cache
 9. LRU cache for memory cache
 10. Retrofit for API call
+
+- After installing the app only the first time internet is required to get images from the server.
+- Later the App can load images from the cache if no internet is available.
+- When the internet is available it will update the caches
 
 ## Detail descriptions 
 
