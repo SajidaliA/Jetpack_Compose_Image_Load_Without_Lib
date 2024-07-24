@@ -1,4 +1,4 @@
-# Sajid_Ali_Android_Assignment
+# Jetpack_Compose_Image_Load_Without_Lib
 
 Android assignment project for showing images in a grid with 3-column square images without any image loading library like Glide, Coil, Picaso, etc. 
 Built on Android Jetpack compose - MVVM with Hilt for DI, Room for local disk cache, and LRU cache for memory cache
